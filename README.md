@@ -242,3 +242,6 @@ Use it as :
     it redirects the user to home route / home directory whenever the user encounters a failure.
 
 ## Github pages only supports the static websites.
+
+## The website is Currently hosted on : Cyclic
+Link : https://drab-jade-chick-hose.cyclic.app
