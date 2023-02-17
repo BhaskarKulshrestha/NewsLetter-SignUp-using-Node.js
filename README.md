@@ -30,7 +30,8 @@ api is a set of commands , functions, protocolsand objects that programmers can 
     contains=debugging and rate=5 is a parameter
 
 ### Authentication:<br>
-    The API authentication process validates the identity of the client attempting to make a connection by using an authentication protocol. The protocol sends the credentials from the remote client requesting the connection to the remote access server in either plain text or encrypted form.
+    The API authentication process validates the identity of the client attempting to make a connection by using an authentication protocol. 
+    The protocol sends the credentials from the remote client requesting the connection to the remote access server in either plain text or encrypted form.
 
 ![working of API](https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/27f810ea-2722-455a-9a0d-bb5b54c28393/api-based-platforms-api-diagram.png)
 
