@@ -244,5 +244,5 @@ Use it as :
 ## Github pages only supports the static websites.
 
 ## The website is Currently hosted on : Cyclic
-Link : https://drab-jade-chick-hose.cyclic.app
+Link : https://drab-jade-chick-hose.cyclic.app  <br>
 Helping Video : https://www.youtube.com/watch?v=q8GSWGu2roA
