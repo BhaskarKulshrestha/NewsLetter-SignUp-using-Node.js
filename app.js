@@ -37,7 +37,7 @@ app.post("/",function(req,res){
     const url = "https://us21.api.mailchimp.com/3.0/lists/d9a8561b1c"
     const options={
         method:"POST",
-        auth:"bhaskar:aae084eed6ce558514bcde092d46fb24-us21"
+        auth:"bhaskar:fa98f4b99649e9724c90cf972daae15a-us21"
     }
     const request = https.request(url,options,function(response){
 
@@ -72,5 +72,5 @@ app.listen(3000,function(){
     console.log("Server is listening on port 3000.")
 })
 
-// API key:aae084eed6ce558514bcde092d46fb24-us21
+// API key:fa98f4b99649e9724c90cf972daae15a-us21
 // List ID : d9a8561b1c
